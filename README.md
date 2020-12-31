@@ -1,1 +1,1 @@
-My Helloe world example with Javascript
+My hello world example with Javascript
